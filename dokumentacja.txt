@@ -1,6 +1,6 @@
 DOKUMENTACJA APLIKACJI
 
-Imię i nazwisko: Oliwier Klinkosz
+Imię i nazwisko: Kacper Labudda
 Numer zdającego: ....................................
 
 1. System operacyjny
