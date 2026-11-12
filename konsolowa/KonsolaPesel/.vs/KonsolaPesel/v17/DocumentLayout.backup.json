@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\5Tp\\Desktop\\Egzaminy\\Egzamin2\\konsolowa\\KonsolaPesel\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D5181E72-CD19-46E1-92BA-7E684803FBCA}|KonsolaPesel\\KonsolaPesel.csproj|c:\\users\\5tp\\desktop\\egzaminy\\egzamin2\\konsolowa\\konsolapesel\\konsolapesel\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5181E72-CD19-46E1-92BA-7E684803FBCA}|KonsolaPesel\\KonsolaPesel.csproj|solutionrelative:konsolapesel\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\5Tp\\Desktop\\Egzaminy\\Egzamin2\\konsolowa\\KonsolaPesel\\KonsolaPesel\\Program.cs",
+              "RelativeDocumentMoniker": "KonsolaPesel\\Program.cs",
+              "ToolTip": "C:\\Users\\5Tp\\Desktop\\Egzaminy\\Egzamin2\\konsolowa\\KonsolaPesel\\KonsolaPesel\\Program.cs",
+              "RelativeToolTip": "KonsolaPesel\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-12T10:41:16.751Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
